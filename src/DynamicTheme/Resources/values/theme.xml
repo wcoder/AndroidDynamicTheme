@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+	<style name="AppTheme.Dark" parent="android:Theme">
+		<item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+		
+		<item name="backgroundColor">@android:color/black</item>
+	</style>
+
+	<style name="AppTheme.Light" parent="android:Theme.Light">
+		<item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+
+		<item name="backgroundColor">@android:color/white</item>
+	</style>
+	
+</resources>
